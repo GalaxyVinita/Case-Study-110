@@ -1,0 +1,12 @@
+.text_images_and_result
+{
+    border-radius: 20;
+    border-color:black;
+    border-style: solid;
+    background:hotpink
+}
+.img-responsive
+{
+    width:350px;
+    height:300px;
+}
